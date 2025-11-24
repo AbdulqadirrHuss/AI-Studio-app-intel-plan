@@ -1,0 +1,5 @@
+{
+  "name": "Copy of IntelliDay Planner",
+  "description": "A smart todo application that organizes your daily tasks based on customizable 'Day Types' like 'Work Day' or 'Rest Day'. It features recurring tasks, categories, and a daily completion percentage tracker to keep you motivated and organized.",
+  "requestFramePermissions": []
+}
